@@ -40,6 +40,8 @@
 
         ?>
 
+        
+
 
 
         <h1>Les mode de fichiers en PHP</h1>
